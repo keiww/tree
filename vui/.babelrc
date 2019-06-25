@@ -3,8 +3,10 @@
     [
       "@babel/preset-env",
       {
+        "corejs": 2,
         "useBuiltIns": "usage"
       }
     ]
-  ]
+  ],
+  "exclude": "node_modules/**"
 }

@@ -1,0 +1,15 @@
+{
+  "name": "mini-webpack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "css-loader": "^3.0.0",
+    "vue": "^2.6.10",
+    "vue-loader": "^15.7.0",
+    "vue-template-compiler": "^2.6.10",
+    "vui": "file:../../vui/dist/esm",
+    "webpack": "^4.35.0",
+    "webpack-dev-server": "^3.7.2"
+  }
+}

@@ -1,0 +1,13 @@
+.vui-modal {
+  box-shadow: 2px 6px 8px rgba(0, 0, 0, .1);
+  min-width: 300px;
+}
+.vui-modal-body {
+  min-height: 100px;
+}
+.vui-modal-footer {
+  margin: 1em -2em -1em;
+  padding: .8em 2em;
+  border-top: 2px solid #333;
+  background: #eee;
+}
